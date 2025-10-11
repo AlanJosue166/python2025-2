@@ -18,4 +18,4 @@ while nro < 20:
     print("El nro es: ", nro)
     nro=nro+1
 
- ""
+ 
